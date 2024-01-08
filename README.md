@@ -5,6 +5,18 @@ Please feel free to share this repository with others
 
 Firmware  Hisense LCD-LED 58A6150FS
 
+Instructions:
+- Take a Flash-usb with 4GB or more
+- Format in FAT32
+- Drop upgrade file into the root folder
+- Unplug the power cord from tv
+- Insert usb into tv
+- plug the power cord
+- Take your remote control and press power button until upgrade menu appears
+- Follow the instructions on tv
+- Fix!
+  
+
 Mirrors:
 
 - https://drive.google.com/drive/folders/1kcqsFZ4xxN-2KakmEU7ArVMWXc_G4K5n?usp=sharing
